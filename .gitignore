@@ -1,0 +1,43 @@
+# Binaries for programs and plugins
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Go build artifacts
+*.out
+*.a
+*.o
+
+# Dependencies
+/vendor/
+*.mod
+*.sum
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+
+# Coverage files
+*.coverprofile
+*.cover.out
+
+# Debug and build cache
+__debug_bin
+*.test
+*.tmp
+
+# Go cache
+*.cache/
+*.tmp/
+
+# Git settings
+*.lock
+
